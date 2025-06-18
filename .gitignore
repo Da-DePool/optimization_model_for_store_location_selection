@@ -1,0 +1,19 @@
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+*.csv
+*.cpg
+*.dbf
+*.prj
+*.shx
+*.shp
+*.xlsx
+
+# Pyomo/solver related temporary files
+*.nl
+*.sol
+*.log
