@@ -29,4 +29,6 @@ Data files for OXXO Stores:
 - RESAGEBURB_19CSV20.csv
 - ventas_oxxo.xlsx
 
+The data files are provided separately to the notebooks.  In order for the project to run properly, the data files and the project files must be in the same location.
+
 Disclaimer: The store data used in this project, although based on actual OXXO data, is dummy data with the primary purpose of serving as a placeholder for actual data.
